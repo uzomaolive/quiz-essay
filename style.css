@@ -1,0 +1,72 @@
+.subject {
+    font-weight: 200;
+    text-align: center;
+    padding-top: 20px;
+  
+}
+
+.container {
+    align-items: center;
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    margin: 60px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+    
+    
+}
+ .form-contain p {
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+.form-contain{
+    padding-left: 20%;
+    padding-top: 20px
+}
+.form-contain label {
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.inp-type {
+    padding-top:10px
+}
+
+.input-button{
+    display: flex;
+    margin: 0 auto;
+    background-color: #000;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    border: 2px solid #000;
+    border-radius: 5px;
+}
+
+.submit{
+    padding-right: 230px;
+}
+
+.percentage-button {
+    margin-left: 10px;  /* Adjust the margin as needed */
+    background-color: red;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: not-allowed;
+  }
+  
+
+  
+
+
+
